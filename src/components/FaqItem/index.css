@@ -1,0 +1,28 @@
+/* Write your code here. */
+.faq-item {
+  border: solid 2px #d7dae6;
+  border-radius: 8px;
+  margin-bottom: 16px;
+  padding: 12px 20px;
+}
+
+.faq-info-container {
+  display: flex;
+  justify-content: space-between;
+}
+
+.toggle-img {
+  align-self: center;
+}
+
+.question {
+  font-family: 'Roboto';
+  font-size: 18px;
+  font-weight: 500;
+  color: #52606d;
+}
+
+.answer {
+  font-family: 'Roboto';
+  color: #9aa5b1;
+}
