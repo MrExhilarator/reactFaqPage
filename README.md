@@ -33,7 +33,7 @@
 ### Functionalities
 
 <details>
-<summary>Functionality to be added</summary>
+<summary>Click to view</summary>
 <br/>
 
 The app must has the following functionalities
