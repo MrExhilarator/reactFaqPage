@@ -13,6 +13,7 @@
 
 .toggle-img {
   align-self: center;
+  cursor: pointer;
 }
 
 .question {
