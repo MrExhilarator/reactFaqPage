@@ -36,7 +36,7 @@
 <summary>Click to view</summary>
 <br/>
 
-The app must has the following functionalities
+The app has the following functionalities
 
 - When the plus icon is clicked in a FAQ
   - The answer to the FAQ will be visible to the user
